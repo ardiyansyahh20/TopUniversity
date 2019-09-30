@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Top University</string>
+    <string name="profil">profil</string>
+    <string name="nama_univ">Nama Universitas</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="alamat_univ">Alamat Universitas</string>
+    <string name="muhamad_ardiyansyah">Muhamad Ardiyansyah</string>
+    <string name="email_ardi">ardii.skom@gmail.com</string>
+    <string name="gambar_detail">gambar detail</string>
+    <string name="website_univ">website univ</string>
+    <string name="isi_deskripsi">Isi Deskripsi</string>
+</resources>
